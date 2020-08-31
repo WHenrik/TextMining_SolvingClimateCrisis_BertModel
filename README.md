@@ -1,5 +1,5 @@
 # Solving the Climate Crisis with Text Mining - Economics and Politicians on Twitter 
-## by Franziska Schuhmann & Henrik Wenck
+## by Franziska Schumann & Henrik Wenck
 
 In this seminar we tested how the Bert model can be used to extract information from tweets in a climate policy context. 
 
