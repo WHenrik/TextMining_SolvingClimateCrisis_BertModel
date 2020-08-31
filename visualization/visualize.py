@@ -29,8 +29,6 @@ class visualize_embeddings(object):
         self.reducer.fit(embeddings)
 
     def show(self,embeddings,labels):
-        #TODO: Klassenbeschriftungen
-
         """
         Visualizes the low-dimensional embedding in two dimensions.
 
